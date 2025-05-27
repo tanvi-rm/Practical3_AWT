@@ -1,4 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LINQtoSQL.aspx.cs" Inherits="Practical_no_3_documentation.LINQtoSQL" %>
+Design asp.net web application to perform add, update, delete and search operations on emp_info
+Table using LINQ to SQL.
+
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LINQtoSQL.aspx.cs" Inherits="Practical_no_3_documentation.LINQtoSQL" %>
 
 <!DOCTYPE html>
 
