@@ -1,4 +1,9 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ConnectedArchitecture.aspx.cs" Inherits="Practical_no_3_documentation.ConnectedArchitecture" %>
+Design an ASP.NET web Applications using Connected Database architecture to add, update, delete
+and search customer information from database table. Consider following schema for customer_info
+table customer_info(cid primary key, cname, cadd)
+
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ConnectedArchitecture.aspx.cs" Inherits="Practical_no_3_documentation.ConnectedArchitecture" %>
 
 <!DOCTYPE html>
 
